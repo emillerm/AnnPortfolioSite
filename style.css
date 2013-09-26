@@ -7,8 +7,6 @@ body {
 
 /* Do I need this? Why doesn't it inherit from body? */
 h1 {
-	font-size: 14px;
-	line-height: 1.5;
 	font-style: bold;
 	text-transform: uppercase;
 }
@@ -21,10 +19,6 @@ h1 {
 	color: #424242;
 	text-decoration: none;
 	text-transform: uppercase;
-}
-
-#nav ul{
-	list-style: none;
 }
 
 #nav #active{
