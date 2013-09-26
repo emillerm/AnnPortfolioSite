@@ -1,1 +1,1 @@
-Basic layout for a portolio site. 
+Basic layout for a portolio site. My attempt to teach myself basic html/CSS. 
