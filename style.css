@@ -1,3 +1,7 @@
+
+/* For Test only **/
+/* pink for later: fb15c2*/
+
 body {
 	color: #424242;
 	font-family: Arial, Helvetica, sans-serif;
@@ -22,7 +26,7 @@ h1 {
 }
 
 #nav #active{
-	color:#fb15c2;
+	color:blue;
 }
 
 #content {
