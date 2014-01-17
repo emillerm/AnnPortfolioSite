@@ -1,5 +1,3 @@
-
-/* For Test only **/
 /* pink for later: fb15c2*/
 
 body {
@@ -15,19 +13,60 @@ h1 {
 	text-transform: uppercase;
 }
 
-#nav{
+img {
+	width: 100%
+}
+
+nav {
+	width: 175px;
+	position: fixed;
+	padding:50px 10px 10px 35px;
+
+	/*background: darkcyan;*/
+}
+
+nav li{
 	line-height: 300%;
 }
 
-#nav a {
+
+nav a {
 	color: #424242;
 	text-decoration: none;
-	text-transform: uppercase;
+	text-transform: uppercase;	
 }
 
-#nav #active{
+nav .active{
 	color:blue;
 }
 
-#content {
+.content_container{
+	/*background: cyan;*/
+	padding: 60px 20px 0 0;
+	margin-left: 250px;
+	width: auto;
+	max-width: 740px;
 }
+
+.left_column {
+	/*background: lightblue;*/
+	width: 50%;
+	float:left;
+}
+
+.right_column {
+	width: 48%;
+	float:left;
+	margin-left: 2%
+}
+
+/* For testing only */
+/*
+nav {
+	background: aqua; 
+}
+
+.content_container{
+	background: yellow;
+}
+*/
